@@ -1,32 +1,18 @@
 # rock-paper-scissors-exercise
 ``` python game.py
 ```
+# Navigate to repo from command line
+cd ~/Desktop/ rock-paper-scissors-excercise
 
 Here is a shell/terminal command
 ```sh
 python game.py
 ```
-print("WELCOME TO THE ROCK PAPER SCISSORS GAME!")
+# Test you can run python
+python game.py
 
+# Make a selection of choice (rock, paper, scissors)
 
+# Computer makes a selection
 
-
-#USER INPUTS
-
-user_choice = input("Please make selection")
-
-
-#VALIDATE USER INPUTS
-
-
-
-#COMPUTER CHOICE
-
-
-
-
-#DETERMINING THE WINNER
-
-
-
-#DISPLAYING RESULTS
+# Winner is determined
